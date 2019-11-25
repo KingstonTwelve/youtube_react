@@ -167,8 +167,8 @@ const youtuber = () =>{
 
 //API
 {
-    const API_KEY = 'AIzaSyDtej2rzM0pucdudeGydxkr4L9ZuV0H4mo';
-    const CLIENT_ID = '615226258061-10llm7h1tq26i7t1q87u5al7na195540.apps.googleusercontent.com';
+    const API_KEY = '12345678qwerty';
+    const CLIENT_ID = 'qwertyui23456789.apps.googleusercontent.com';
     
     //AUTH
     {
